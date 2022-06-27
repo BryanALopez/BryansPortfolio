@@ -1,0 +1,23 @@
+{
+    "portfolio": [
+        {
+            "cover": "/portfolio/ThinkfulBnB/Thinkfulbnb-desktop.png",
+            "title": "ThinkfulBnB",
+            "description": "",
+            "url": "https://github.com/BryanALopez/ThinkfulBnb.git"
+        },
+        {
+            "cover": "/portfolio/Flashcards-app/flashcards-app.PNG",
+            "title": "Flashcards App",
+            "description": "",
+            "url": "https://github.com/BryanALopez/Flashcard-Project.git"
+        },
+        {
+            "cover": "/portfolio/Restaurant-reservations/us-05-dashboard-finish-button-cancel-before.png",
+            "title": "Restuarant Reservation App",
+            "description": "",
+            "url": "https://github.com/BryanALopez/Restaurant_Reservations.git"
+        }
+      
+    ]
+}
